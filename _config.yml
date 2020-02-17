@@ -59,6 +59,12 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/iarambula"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-75135517-3"
+    anonymize_ip: false
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
