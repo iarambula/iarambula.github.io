@@ -23,7 +23,7 @@ email: ivan@ionyze.com
 description: >- # this means to ignore newlines until "baseurl:"
   VP of Engineering at Sigo.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://iarambula.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://ivanarambula.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  iarambula
 
 # Build settings

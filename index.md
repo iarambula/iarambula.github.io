@@ -25,6 +25,8 @@ And before that, Software Engineer at [One Month](#one-month)
 
 ## Accelerators
 
+These are the accelerator programs that I've personally participated in. 
+
 [Entrepreneurs Roundtable Accelerator (Summer '19)](https://techcrunch.com/2019/09/26/entrepreneurs-roundtable-accelerator-introduces-12-new-startups-at-demo-day/){:target="_blank" rel="noreferrer noopener"}  
 *Sigo Technologies*
 
