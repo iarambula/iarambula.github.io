@@ -1,0 +1,12 @@
+Ivan Arambula:
+  name: "Ivan Arambula"
+  bio: "VP of Engineering at Sigo"
+  avatar: "/assets/images/ivan.jpg"
+  location: "Bakersfield, CA"
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/ivan-arambula/"
+    - label: "Sigo"
+      icon: "fas fa-fw fa-building"
+      url: "https://sigoinsurance.com"

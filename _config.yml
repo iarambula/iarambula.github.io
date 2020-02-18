@@ -50,10 +50,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      author: Ivan Arambula
       read_time: true
-      comments: true
       share: true
-      related: true
 
 social:
   type: Person
