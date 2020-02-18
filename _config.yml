@@ -22,6 +22,8 @@ title: Ivan Arambula
 email: ivan@ionyze.com
 description: >- # this means to ignore newlines until "baseurl:"
   VP of Engineering at Sigo.
+  Previously, founding engineer at One Step Software.
+  And before that, software engineer at One Month.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ivanarambula.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  iarambula
