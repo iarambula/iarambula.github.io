@@ -17,11 +17,11 @@ And before that, Software Engineer at [One Month](#one-month)
 
 ## One Step Software
 
-[One Step Software](https://www.onestepsoftware.com){:target="_blank" rel="noreferrer noopener"} is management software for sober livings and treatment centers. One Step helps sober livings manage intake, track payments, and track resident locations for accountability. Treatment centers can use One Step to track outcomes and it comes with a patient app.
+[One Step Software](https://www.onestepsoftware.com){:target="_blank" rel="noreferrer noopener"} provides management software for sober livings and treatment centers. One Step helps sober livings manage intake, track payments, and track resident locations for accountability. Treatment centers can use One Step to track outcomes and it comes with a patient app.
 
 ## One Month
 
-[One Month](https://onemonth.com){:target="_blank" rel="noreferrer noopener"} is an online coding bootcamp that can show people how to build a web application in just One Month as it's name implies. In their bootcamp you turn in assignments and get feedback from an actual instructor.
+[One Month](https://onemonth.com){:target="_blank" rel="noreferrer noopener"} is an online coding bootcamp that can teach people to build a web application in just One Month, as it's name implies. In their bootcamp you turn in assignments and get feedback from an actual instructor. One Month is a Y Combinantor-backed company.
 
 ## Accelerators
 
